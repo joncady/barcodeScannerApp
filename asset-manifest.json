@@ -1,14 +1,14 @@
 {
   "main.css": "/barcodeScannerApp/static/css/main.be9cd952.chunk.css",
-  "main.js": "/barcodeScannerApp/static/js/main.3ae535ba.chunk.js",
-  "main.js.map": "/barcodeScannerApp/static/js/main.3ae535ba.chunk.js.map",
+  "main.js": "/barcodeScannerApp/static/js/main.332fd22e.chunk.js",
+  "main.js.map": "/barcodeScannerApp/static/js/main.332fd22e.chunk.js.map",
   "runtime~main.js": "/barcodeScannerApp/static/js/runtime~main.854b0b08.js",
   "runtime~main.js.map": "/barcodeScannerApp/static/js/runtime~main.854b0b08.js.map",
   "static/css/2.5face483.chunk.css": "/barcodeScannerApp/static/css/2.5face483.chunk.css",
   "static/js/2.a4aef319.chunk.js": "/barcodeScannerApp/static/js/2.a4aef319.chunk.js",
   "static/js/2.a4aef319.chunk.js.map": "/barcodeScannerApp/static/js/2.a4aef319.chunk.js.map",
   "index.html": "/barcodeScannerApp/index.html",
-  "precache-manifest.764d4a5f52fbc7a1ec73fc94bbc5b613.js": "/barcodeScannerApp/precache-manifest.764d4a5f52fbc7a1ec73fc94bbc5b613.js",
+  "precache-manifest.3cf40c16097f0c979d82dd8adf958678.js": "/barcodeScannerApp/precache-manifest.3cf40c16097f0c979d82dd8adf958678.js",
   "service-worker.js": "/barcodeScannerApp/service-worker.js",
   "static/css/2.5face483.chunk.css.map": "/barcodeScannerApp/static/css/2.5face483.chunk.css.map",
   "static/css/main.be9cd952.chunk.css.map": "/barcodeScannerApp/static/css/main.be9cd952.chunk.css.map"

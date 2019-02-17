@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/barcodeScannerApp/precache-manifest.764d4a5f52fbc7a1ec73fc94bbc5b613.js"
+  "/barcodeScannerApp/precache-manifest.3cf40c16097f0c979d82dd8adf958678.js"
 );
 
 workbox.clientsClaim();
