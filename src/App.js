@@ -53,7 +53,8 @@ class App extends Component {
 
 	toggle = () => {
 		this.setState(prevState => ({
-			modal: !prevState.modal
+			modal: !prevState.modal,
+			codeDetected: false
 		}));
 	}
 
@@ -75,7 +76,6 @@ class App extends Component {
 							modal: true,
 							modalTitle: title,
 							modalMessage: desc,
-							codeDetected: false,
 							success: true
 						});
 					} catch (err) {
@@ -83,7 +83,6 @@ class App extends Component {
 							modal: true,
 							modalTitle: "Error!",
 							modalMessage: "Please try again!",
-							codeDetected: false,
 							success: false
 						})
 					}
