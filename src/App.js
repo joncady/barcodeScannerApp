@@ -5,7 +5,7 @@ import { Modal, ModalHeader, Button } from 'reactstrap';
 import 'firebase/firestore';
 import firebase from 'firebase';
 
-class App extends Component {
+export default class App extends Component {
 
 	constructor() {
 		super();
@@ -119,5 +119,3 @@ class App extends Component {
 		);
 	}
 }
-
-export default App;
