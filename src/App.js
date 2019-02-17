@@ -54,7 +54,7 @@ class App extends Component {
 		this.setState({
 			codeDetected: true
 		}, () => {
-			axios.get('http://localhost:3030/code', {
+			axios.get('https://duetwithme.herokuapp.com/code', {
 				params: {
 					code: data
 				}
